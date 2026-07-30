@@ -1,6 +1,8 @@
 # Automated Customer Feedback Analysis
 ## Real-time Sentiment Classification & Structured Data Pipeline
 
+> **Portfolio note:** This repository documents a TripleTen AI Automation project. The repo name is awkward (it was auto-generated) — the content itself is the documentation of a working Make.com + Gemini feedback analysis pipeline.
+
 A production-ready workflow that collects customer feedback, analyzes sentiment with AI, extracts structured insights, and routes alerts — all in real time, with zero manual intervention.
 
 ---
